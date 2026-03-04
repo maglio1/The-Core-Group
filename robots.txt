@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://thecoregroup.com/sitemap.xml
+
+# Block admin/staging
+Disallow: /staging/
+Disallow: /admin/
